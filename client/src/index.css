@@ -1,0 +1,24 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root{
+    --color-pr: #08fdd8;
+    --color-bg: #0F1624;
+    --color-bg2: hsl(232.7,27.3%,23.7%);
+    --color-pure: hsl(204,23.8%,95.9%);
+    --color-slate: #8892b0;
+
+    --transition: all 400ms ease;
+}
+
+html{
+    scroll-behavior: smooth;
+}

@@ -1,2 +1,2 @@
 # play-cash
-Play cash is basic frontend play and win cash website built using react js 
+Play cash is basic frontend play and win cash website.
